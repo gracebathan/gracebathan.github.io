@@ -1,0 +1,71 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-image: url(2.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	font-family:  new time roman;
+}
+h1{
+	font-size: 50px;
+	color: black;
+	margin-top: 30px;
+	margin-bottom: 60px;
+}
+.col-lg-6{
+	background: transparent;
+	margin-top: 40px;
+}
+.label{
+	font-size: 20px;
+	font-weight: bold;
+}
+.input-group{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.input-group-addon{
+	background: transparent;
+	border-radius: 0px;
+	border: 0px;
+	border-bottom: 1px solid black;
+	font-size: 18px;
+	color: black;
+}
+.form-control{
+	background: transparent;
+	border-radius: 0px;
+	border: 0px;
+	border-bottom: 1px solid black;
+	padding: 15px;
+	color: black;
+	font-size: 21px;
+}
+input[type="checkbox"]{
+	height: 15px;
+	width: 15px;
+}
+small{
+	font-size: 18px;
+	color: black;
+}
+p{
+	font-size: 18px;
+	color: black;
+}
+.btn-custom{
+	border-radius: 0px;
+	width: 559px;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	background-color: white;
+}
+h2{
+	font-size: 50px;
+	color: black;
+}
+
